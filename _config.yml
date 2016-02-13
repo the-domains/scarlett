@@ -1,0 +1,28 @@
+name: Scarlett
+favicon: null
+layout_spectrum: 0.6197293729055673
+typography_spectrum: 0.271985640283674
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.929138966370374
+  lightness: 0.21786486078053713
+  saturation: 0.02721234317868948
+  rhythmicContrast: 0.2036752651911229
+purpose: []
