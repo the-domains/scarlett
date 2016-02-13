@@ -1,7 +1,7 @@
 name: Scarlett
 favicon: null
-layout_spectrum: 0.6197293729055673
-typography_spectrum: 0.271985640283674
+layout_spectrum: 1
+typography_spectrum: 0.11607
 title: A Life on Screen
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.929138966370374
-  lightness: 0.21786486078053713
-  saturation: 0.02721234317868948
-  rhythmicContrast: 0.2036752651911229
+    - '#ffffff'
+    - '#6793de'
+    - '#bcc7e3'
+    - '#2f0209'
+    - '#9e1587'
+  brandStrength: 0.875
+  lightness: 0.375
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
